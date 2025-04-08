@@ -1,0 +1,10 @@
+geopandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+fiona
+streamlit
+streamlit-folium
+folium
+streamlit-plotly-events
+geoalchemy2
